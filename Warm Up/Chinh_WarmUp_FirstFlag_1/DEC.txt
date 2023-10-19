@@ -1,0 +1,2 @@
+What is CTF ???
+Flag form : mCTF{This_is_the_fake_flag}.

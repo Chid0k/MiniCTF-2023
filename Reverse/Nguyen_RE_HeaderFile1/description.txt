@@ -1,0 +1,3 @@
+Việc của bạn là chỉ cần chạy code
+Nhưng có vẻ flag đã bị thay đổi thứ tự!
+(https://blog.luyencode.net/cach-tach-code-c-thanh-file-h-va-cpp/)

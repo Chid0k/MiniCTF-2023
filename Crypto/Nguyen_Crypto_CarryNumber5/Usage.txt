@@ -1,0 +1,2 @@
+Chỉ cần ném flag vào mảng flag[] trong file encrypt sẽ tự động sinh ra 2 số nguyên lớn ngẫu nhiên (ở dạng xâu ký tự chữ số) có độ dài bằng nhau
+File decrypt sẽ lấy 2 số vừa tạo ra ngẫu nhiên bởi file encrypt để giải mã (theo cách giải trong file solve)

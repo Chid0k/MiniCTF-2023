@@ -1,0 +1,1 @@
+Mở hxd và chỉnh sửa file signature của bức ảnh sang FF D8 FF E0 00 10 4A 46 49 46 00 01 -> flag

@@ -1,0 +1,1 @@
+Ta click chuột phải, sau đó chọn Properties. Tại mục Details ta sẽ thấy flag nằm ở mục Comment

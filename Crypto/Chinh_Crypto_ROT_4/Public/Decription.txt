@@ -1,0 +1,3 @@
+rot 100 ( n ^ 2)
+
+flag: iejeYPB{N0p10_n3l3wP_10_1ei3o}
